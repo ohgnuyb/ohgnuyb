@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Sobyungho. I'm currently studying at Gachon University's artificial intelligence(AI) department.
 
 <!--
 **ohgnuyb/ohgnuyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
