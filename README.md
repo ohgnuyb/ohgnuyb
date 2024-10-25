@@ -1,4 +1,5 @@
-## I'm Sobyungho.
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ohgnuyb.b&fontSize=90" />
+
 I'm currently studying at Gachon University's artificial intelligence(AI) department.
 <!--
 **ohgnuyb/ohgnuyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
