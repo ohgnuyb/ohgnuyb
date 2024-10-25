@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=ohgnuyb.b&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=130&section=header&text=ohgnuyb.b&fontSize=90" />
 
 I'm currently studying at Gachon University's artificial intelligence(AI) department.
 <!--
