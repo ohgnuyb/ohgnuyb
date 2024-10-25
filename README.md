@@ -2,4 +2,4 @@
 
 I'm currently studying at Gachon University's artificial intelligence(AI) department.
 
-![ohgnuyb.b's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohgnuyb&show_icons=true&theme=dracula)
+<!-- ![ohgnuyb.b's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohgnuyb&show_icons=true&theme=dracula) -->
