@@ -34,11 +34,6 @@ I'm currently studying at Gachon University's artificial intelligence(AI) depart
 
 </div>
 
-<h3>Version Control</h3>
-    <div>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-    </div>
-    
 <h2> 📞 Contact Me 📞</h2>
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/ohgnuyb">
@@ -52,6 +47,12 @@ I'm currently studying at Gachon University's artificial intelligence(AI) depart
     </a>
 
 </div>
+
+<h3>Version Control</h3>
+    <div>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    </div>
+    
 
 
 
