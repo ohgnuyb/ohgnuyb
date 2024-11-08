@@ -2,7 +2,8 @@
 
 <br>
 <br>
-I'm currently studying at Gachon University's artificial intelligence(AI) department.
+
+I am currently studying Artificial Intelligence (AI) department as a freshman at Gachon University.
 
 <br>
 <br>
