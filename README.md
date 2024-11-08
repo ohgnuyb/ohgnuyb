@@ -2,6 +2,9 @@
 
 I'm currently studying at Gachon University's artificial intelligence(AI) department.
 
+<br>
+<br>
+
 <div align="left">
 <h2>🏅 CERTIFICATE 🏅</h2>
 <div>
