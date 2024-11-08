@@ -42,7 +42,7 @@ I'm currently studying at Gachon University's artificial intelligence(AI) depart
         <a href="https://www.instagram.com/ohgnuyb.b">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://open.kakao.com/me/ohgnuyb.b">
+    <a href="http://qr.kakao.com/talk/KzVgHqR7MJMTNFIWjHHHOsj2wWA-">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
     </a>
 
