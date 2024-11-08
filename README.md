@@ -35,16 +35,19 @@ I'm currently studying at Gachon University's artificial intelligence(AI) depart
 <h2> 📞 Contact Me: 📞</h2>
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/ohgnuyb">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
         <a href="https://www.instagram.com/ohgnuyb.b">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://open.kakao.com/me/ohgnuyb.b">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
     </a>
 
 </div>
+
+
+
 
 
 <!-- ![ohgnuyb.b's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohgnuyb&show_icons=true&theme=dracula) -->
