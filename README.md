@@ -8,7 +8,7 @@ I'm currently studying at Gachon University's artificial intelligence(AI) depart
 <br>
 
 <div align="left">
-<h2>🏅 CERTIFICATE 🏅</h2>
+<h3>🏅 CERTIFICATE 🏅</h3>
 <div>
 
 * **ITQ 아래한글 A등급** | 2021.09.02
@@ -17,7 +17,7 @@ I'm currently studying at Gachon University's artificial intelligence(AI) depart
 * **SQLD (SQL Developer)** | 2024.09.20
 
 <div align="left">
-<h2>💻I can use the following 💻</h2>
+<h3>💻I can use the following 💻</h3>
 <div>
     <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -34,7 +34,7 @@ I'm currently studying at Gachon University's artificial intelligence(AI) depart
 
 </div>
 
-<h2> 📞 Contact Me 📞</h2>
+<h3> 📞 Contact Me 📞</h3>
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/ohgnuyb">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
