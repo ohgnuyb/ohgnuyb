@@ -3,7 +3,7 @@
 <br>
 <br>
 
-I am currently studying Artificial Intelligence (AI) department as a freshman at Gachon University.
+First year of Artificial Intelligence(AI) major at Gachon University.
 
 <br>
 <br>
