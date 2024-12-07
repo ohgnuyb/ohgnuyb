@@ -25,10 +25,7 @@ Artificial Intelligence(AI) major at Gachon University.
     <img src="https://img.shields.io/badge/Java-808080?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/C-808080?style=for-the-badge&logo=c&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Markdown-808080?style=for-the-badge&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/Python-808080?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-808080?style=for-the-badge&logo=html5&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/CSS3-808080?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-808080?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
