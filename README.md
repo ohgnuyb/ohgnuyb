@@ -9,7 +9,7 @@ First year of Artificial Intelligence(AI) major at Gachon University.
 <br>
 
 <div align="left">
-<h3>🏅 CERTIFICATE 🏅</h3>
+<h3> CERTIFICATE </h3>
 <div>
 
 * **ITQ 아래한글 A등급** | 2021.09.02
@@ -18,7 +18,7 @@ First year of Artificial Intelligence(AI) major at Gachon University.
 * **SQLD (SQL Developer)** | 2024.09.20
 
 <div align="left">
-<h3>💻I can use the following 💻</h3>
+<h3>USING</h3>
 <div>
     <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -35,7 +35,7 @@ First year of Artificial Intelligence(AI) major at Gachon University.
 
 </div>
 
-<h3> 📞 Contact Me 📞</h3>
+<h3> Contact </h3>
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/ohgnuyb">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
