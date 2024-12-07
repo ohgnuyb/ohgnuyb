@@ -12,10 +12,10 @@ Artificial Intelligence(AI) major at Gachon University.
 <h3> CERTIFICATE </h3>
 <div>
 
-* **ITQ 아래한글 A등급** | 2021.09.02
-* **워드프로세서** | 2022.12.30
-* **정보처리산업기사** | 2023.07.28
-* **SQLD (SQL Developer)** | 2024.09.20
+* **ITQ Hangeul A Grade** | 2021.09.02
+* **Word Processor** | 2022.12.30
+* **Industrial Engineer Information Processing** | 2023.07.28
+* **SQL Developer Certification** | 2024.09.20
 
 <div align="left">
 <h3>USING</h3>
