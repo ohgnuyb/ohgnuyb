@@ -41,9 +41,6 @@ Artificial Intelligence(AI) major at Gachon University.
     <a href="https://www.instagram.com/ohgnuyb.b">
         <img src="https://img.shields.io/badge/Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="http://qr.kakao.com/talk/KzVgHqR7MJMTNFIWjHHHOsj2wWA-">
-        <img src="https://img.shields.io/badge/KakaoTalk-808080?style=for-the-badge&logo=kakaotalk&logoColor=white">
-    </a>
 </div>
 
 <h3>Version Control</h3>
