@@ -9,7 +9,7 @@ Artificial Intelligence(AI) major at Gachon University.
 <br>
 
 <div align="left">
-<h3> CERTIFICATE </h3>
+<h5> CERTIFICATE </h5>
 <div>
 
 * **ITQ Hangeul A Grade** | 2021.09.02
@@ -18,7 +18,7 @@ Artificial Intelligence(AI) major at Gachon University.
 * **SQL Developer Certification** | 2024.09.20
 
 <div align="left">
-<h3>USING</h3>
+<h5>USING</h5>
 <div>
     <img src="https://img.shields.io/badge/JSP-808080?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle_DB-808080?style=for-the-badge&logo=oracle&logoColor=white">
@@ -41,7 +41,7 @@ Artificial Intelligence(AI) major at Gachon University.
     </a>
 </div>
 
-<h3>Version Control</h3>
+<h5>Version Control</h5>
   <div>
     <img src="https://img.shields.io/badge/GitHub-808080?style=flat-square&logo=github&logoColor=white">
 </div>
