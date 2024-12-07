@@ -38,6 +38,7 @@ Artificial Intelligence(AI) major at Gachon University.
      <a href="https://github.com/ohgnuyb">
         <img src="https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=white">
     </a>
+    <br>
     <a href="https://www.instagram.com/ohgnuyb.b">
         <img src="https://img.shields.io/badge/Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
