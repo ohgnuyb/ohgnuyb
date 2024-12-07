@@ -3,7 +3,7 @@
 <br>
 <br>
 
-First year of Artificial Intelligence(AI) major at Gachon University.
+Artificial Intelligence(AI) major at Gachon University.
 
 <br>
 <br>
